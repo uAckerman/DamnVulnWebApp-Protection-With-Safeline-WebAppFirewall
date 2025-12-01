@@ -1,6 +1,8 @@
 # DamnVulnWebApp-Protection-With-Safeline-WebAppFirewall
 End-to-end web security project deploying SafeLine WAF to protect DVWA, simulating attacks from Kali Linux, monitoring WAF alerts, and creating tailored rules to block malicious traffic and enhance application defense.
 
+**Author:** Uzair Khan
+
 ## Overview  
 
 This project walks you through using SafeLine WAF to secure a vulnerable web app, DVWA (Damn Vulnerable Web Application). The goal is to simulate real-world cyberattacks, monitor how SafeLine WAF responds, and tweak its settings to block malicious traffic and better protect the app.
