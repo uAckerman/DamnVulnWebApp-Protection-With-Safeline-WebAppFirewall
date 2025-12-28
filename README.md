@@ -15,7 +15,6 @@ This project walks you through using SafeLine WAF to secure a vulnerable web app
 **DVWA (Damn Vulnerable Web Application)**: A deliberately insecure web app used for security testing and learning.    
 **Kali Linux**: Penetration testing platform used to simulate attacks and exploit vulnerabilities.    
 
-_**Working on it...**_
-
+🚧 _**Work in Progress**_
 
 
